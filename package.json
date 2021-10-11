@@ -1,8 +1,8 @@
 {
-  "name": "calculate-margin",
+  "name": "calculate-margin-percent",
   "version": "1.0.0",
-  "description": "Calculate margin of deal",
-  "main": "calculate_margin.ts",
+  "description": "Calculate margin % of deal",
+  "main": "calculate_margin_percent.ts",
   "scripts": {
     "dev": "node_modules/ts-node-dev/lib/bin.js --respawn index.ts",
     "start": "node_modules/ts-node/dist/bin.js index.ts",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/profitmaker-network/calculate-margin.git"
+    "url": "git+https://github.com/profitmaker-network/calculate-margin-percent.git"
   },
   "keywords": [
     "margin",
@@ -20,9 +20,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/profitmaker-network/calculate-margin/issues"
+    "url": "https://github.com/profitmaker-network/calculate-margin-percent/issues"
   },
-  "homepage": "https://github.com/profitmaker-network/calculate-margin#readme",
+  "homepage": "https://github.com/profitmaker-network/calculate-margin-percent#readme",
   "devDependencies": {
     "@types/jest": "^26.0.15",
     "@types/lodash": "^4.14.162",
